@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RengokuTheDev
+- 👋 Hi, I’m @RengokuTheDev aka Jonathan.
 - 👀 I’m interested in data analytics, anime, and weight lifting!
 - 🌱 I’m currently learning the intricacies of data analytics and various coding languages.
 - 💞️ I’m looking to collaborate on projects that will help me further my data analytics journey.
